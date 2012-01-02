@@ -1,0 +1,6 @@
+This was written as a tool to visualize a Taylor series,
+but it turned into a way to mess around with Clojure records.
+
+Not useful in it's current state but I might turn it into
+something real later.
+
